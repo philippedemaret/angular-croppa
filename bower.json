@@ -1,0 +1,23 @@
+{
+  "name": "angular-croppa",
+  "version": "0.1.0",
+  "homepage": "https://github.com/atwright147/angular-croppa",
+  "authors": [
+    "Andy Wright <atwright147@gmail.com>"
+  ],
+  "description": "An AngularJS directive to help use Laravel Croppa in AngularJS apps",
+  "main": "croppa-directive.js",
+  "keywords": [
+    "angularjs",
+    "croppa",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
